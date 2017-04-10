@@ -1,0 +1,333 @@
+<!-- service section starts here -->
+  <section class="service text-center" id="service">
+    <div class="container">
+              <!--Medical services offered-->
+      <div class="row">
+        <div class="col-md-12">
+          <div class="services-font">Services</div>
+          <div class="medium-font">Among the conditions our endocrinologists diagnose and treat are:<p>Click on images for information on services offered at MLM Family Medicine.</p></div>
+        </div>
+      </div> 
+      <!--Clickable images-->
+      <div class="row">
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/adult-medicine.png" alt="Adult Medicine" data-toggle="modal" data-target="#service1">
+         <h3 class="text-muted">Adrenal Disease</h3>
+        </div>
+
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/pediatrics.png" alt="Pediatric Medicine" data-toggle="modal" data-target="#service2">
+          <h3 class="text-muted">Calcium and Parathyroid Disease</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/allergy-test.png" alt="Mole Removal" data-toggle="modal" data-target="#service3">
+          <h3 class="text-muted">Diabetes</h3>
+        </div>     
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/mole-removal.png" alt="Adult Medicine" data-toggle="modal" data-target="#service4">
+          <h3 class="text-muted">Gynecomastia in Men</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/medical-weight-loss.png" alt="Allergy Testing" data-toggle="modal" data-target="#service5">
+          <h3 class="text-muted">Hirsutism in Women</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service6">
+          <h3 class="text-muted">Hormone Replacement</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service7">
+          <h3 class="text-muted">Impotence and Libido Problems</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service8">
+          <h3 class="text-muted">Lipid Disorders</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service9">
+          <h3 class="text-muted">Male Infertility</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service10">
+          <h3 class="text-muted">Menstrual Disorders</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service11">
+          <h3 class="text-muted">Obesity</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service12">
+          <h3 class="text-muted">Osteoporosis</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service13">
+          <h3 class="text-muted">Paget's Disease of the Bone</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service14">
+          <h3 class="text-muted">Pituitary and Hypothalamic Disorders</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service15">
+          <h3 class="text-muted">Secondary Hypertension</h3>
+        </div>
+        <div class="col-md-3">
+          <img class="img-responsive service-image" src="images/BOTOX.png" alt="Mole Removal" data-toggle="modal" data-target="#service16">
+          <h3 class="text-muted">Thyroid Diseases and Thyroid Cancer</h3>
+        </div>
+      </div>
+      </section>
+
+       <!--Modals contain detailed project information-->
+      <!-- Modal -->
+      <div class="modal fade" id="service1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Adrenal Disease</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/adult-medicine.png" alt="Click for information on Adult Medicine"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="service2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Calcium and Parathyroid Disease</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/pediatrics.png" alt="Click for information on Pediatrics"></center>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+          </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Diabetes</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/allergy-test.png" alt="Click for information on Allergy Testing"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled</div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+       <!--Modal-->
+      <div class="modal fade" id="service4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Gynomastia in Men</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/mole-removal.png" alt="Click for informatioin on Minor Surgery"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled 
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Hirsutism in Women</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Hormone Replacement</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/BOTOX.png" alt="Click for information on Asthetics"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Impotence and Libido Problems</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service8" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Lipid Disorders</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Male Infertility</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Menstrual Disorders</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service11" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Obesity</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Osteoporosis</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service13" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Paget's Disease of the Bone</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Pituitary and Hypothalamic Disorders</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service15" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Secondary Hypertension</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--Modal-->
+      <div class="modal fade" id="service16" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <center><h4 class="modal-title" id="myModalLabel1">Thyroid Disease and Thyroid Cancer</h4></center>
+            </div>
+            <div class="modal-body"><center><img class="img-responsive" src="images/medical-weight-loss.png" alt="Click for information on Medical Weight Loss"></center> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--End of Modals-->
+    </div>
+  </section><!-- end of service section -->

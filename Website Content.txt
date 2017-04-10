@@ -33,3 +33,58 @@ Dr. Syoufi completed his Endocrinology fellowship at the University of Arizona a
 
 
 Laura Nolan RN, CDE, CPT is a diabetes nurse specialist for ABC Diabetes Consultants.  Her responsibilities include professional and patient education in Type 1 and Type 2 diabetes, diabetes in pregnancy, insulin pump therapy and continuous glucose monitoring technology.  She has been training patients with diabetes since 1981.  Ms. Nolan received her nursing degree in Arizona and has been a certified diabetes educator since 1986.  Laura adds a personal touch with her patients as she has also had Type 1 diabetes since 1973 and has worn an insulin pump since 1980.  She has been our Team Captain for the American Diabetes Association Step Out to Fight Diabetes walk for many years.
+
+######Patient  Forms######
+FORMS & POLICIES
+by ADMIN on MAY 5, 2014
+Please follow the links below to download and fill out the forms you’ll need for your appointment.
+
+The forms are required prior to your first appointment. If you have any questions about the forms we’ll be happy to answer them when you come in for your appointment.
+
+Dr. Matta New Patient Forms
+
+Dr. Syoufi New Patient Forms
+
+Records Release Form
+
+Blood Sugar Log
+
+ 
+
+Here’s what you need to do to get started before your appointment.
+Make sure you have spoken with one of our staff before your appointment.
+Complete the new patient information form that applies to you.
+Review and sign the patient privacy (HIPPA) form that reviews your privacy protection under the law. This is how you know everything stays confidential.
+Bring any medical records you have with you, particularly laboratory tests, blood sugar logs and meters, pump downloads, thyroid ultrasounds. Although we often request prior medical records from other providers, they do not always arrive on time.The best way to assure that we receive your records is to bring them with you.
+Bring driver’s license and health insurance card.
+#############################################
+
+#########Insurance########################
+
+ACPN
+AETNA
+AHCCCS
+BANNER
+BCBSAZ
+CIGNA
+GEHA
+GILSBAR
+HEALTH Net Comm Plan (Dr. Matta only)
+HEALTHNET
+HUMANA
+LIFEPRINT
+Maricopa County
+MEDICARE
+MERCY CARE
+MERITAIN
+PRIME CARE HEALTH SERVICES
+THREE RIVERS NETWORK
+TRICARE
+UHC
+UMR
+UNITED HEALTHCARE COMM PLAN PAY ONLINE (DR. MATTA) 
+PAY ONLINE (DR. SYOUFI)
+##########################################
+
+#########Map API Key##########
+AIzaSyB_v402heX4FS0_uWdWaWYlyPlAIiEeXao

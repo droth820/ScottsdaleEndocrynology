@@ -179,6 +179,10 @@ li a.active{
 	color: #42b3e5;
 	margin-top: 50px;
 }
+.about h3{
+  font-size: 33px;
+  color: #42b3e5;
+}
 .about h4{
 	font-size: 24px;
 	color: #737373;
@@ -264,7 +268,7 @@ li a.active{
 
 /*service area*/
 .service{
-	background: url(../img/pattern.jpg);
+	background-color: #42b3e5;
 	background-repeat: repeat-y;
 	margin-top: 40px;
 }
@@ -338,8 +342,8 @@ li a.active{
   left: 0;
   width: 0;
   height: 0;
-  border-left: 100px solid transparent;
-  border-right: 100px solid transparent;
+  /*border-left: 100px solid transparent;*/
+  /*border-right: 100px solid transparent;*/
   border-top: 40px solid #3a9ecb;
   z-index: 999;
 }
