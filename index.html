@@ -12,29 +12,12 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:600italic,400,800,700,300' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=BenchNine:300,400,700' rel='stylesheet' type='text/css'>
 	<script src="js/modernizr.js"></script>
-  <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+  <!--<script src="http://maps.google.com/maps/api/js?sensor=false"></script>-->
 
 	<!--[if lt IE 9]>
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
     <![endif]-->
-
-  <style type="text/css">
-  #map {
-  border: 3px solid #E7E4D3;
-  display: block;
-  height:100%;
-  margin-left:auto;
-  margin-right: auto;
-  -webkit-box-shadow: 10px 5px 10px 5px #1C1C1C;
-  box-shadow: 10px 5px 10px 5px #1C1C1C;
-}
-
-.mapDiv {
-  height: 1000px;
-  width: 100%;
-}
-  </style>
 
 </head>
 <body>
@@ -70,12 +53,11 @@
 					    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					      
 					      <ul class="nav navbar-nav navbar-right">
-					        <li><a class="menu active" href="#home" >home</a></li>
+					        <li><a class="menu active" href="#home">home</a></li>
 					        <li><a class="menu" href="#about">about us</a></li>
-					        <li><a class="menu" href="#service">our services </a></li>
-                  <li><a class="menu" href="#forms">patient forms </a></li>
+					        <li><a class="menu" href="#service">our services</a></li>
+                  <li><a class="menu" href="#forms">patient forms</a></li>
 					        <li><a class="menu" href="#team">our team</a></li>
-					        <li><a class="menu" href="#contact"> contact us</a></li>
 					      </ul>
 					    </div><!-- /navbar-collapse -->
 					  </div><!-- / .container-fluid -->
@@ -143,7 +125,7 @@
 	<section class="about text-center" id="about">
 		<div class="container">
 			<div class="row">
-				<h2>about us</h2>
+				<h2>About us</h2>
 				<h3>How we practice medicine</h3>
         <h4>Most people desire a personal physician, a doctor who knows them well and who really cares about them. We strive to be thaty kind of practice. We spend considerable time with each patient and strive to provide both the best medical care and personal touch.<br />
         Our patients are the main reason we enjoy coming to work everyday. Patients enjoy friendly adn collegial relationships based upon candor, trust, and mutual respect. We explain test results and provide copies of reports. we believe in preventive medicine and want our patients to be knowledgeable and responsible for their health.</h4>
@@ -325,32 +307,12 @@
 </div>
 <div class="row">
   <div class="col-md-12">
-    <style>
-    #map{height: 400px; width: 100%;}    
-    </style>
-      <div id="map">
-        <script>
-      function initMap() {
-        var uluru = {lat: 33.619425, lng: -111.880019};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 15,
-          center: uluru
-        });
-        var marker = new google.maps.Marker({
-          position: uluru,
-          map: map
-        });
-      }
-    </script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB_v402heX4FS0_uWdWaWYlyPlAIiEeXao&callback=initMap">
-    </script>
+    <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=9336%20E.%20Raintree%20Dr%20%23108%20Scottsdale%2C%20AZ%2085260&t=&z=14&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>embed google map with <a href="http://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style></div>
+    
 
       </div>
     </div>
-   
-  </div>
-</div>
+
   
 
 </section><!--end of map section -->
